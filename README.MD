@@ -1,4 +1,4 @@
-> # Things I learnt
+# Things I learnt
 > - Lesson 1
 >> - Following netNinja tutorial
 >> - Learnt the file system
