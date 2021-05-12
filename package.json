@@ -1,0 +1,23 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "> # Things I learnt > - How to handle requests and responses > - Creating routes using raw node > - Returning HTML to the webpage > - Different status codes > - How to redirect from a permanently moved url",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanjaybaskaran01/node-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sanjaybaskaran01/node-practice/issues"
+  },
+  "homepage": "https://github.com/sanjaybaskaran01/node-practice#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}

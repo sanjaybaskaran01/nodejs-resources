@@ -1,7 +1,8 @@
 > # Things I learnt
-> - How to handle requests and responses
-> - Creating routes using raw node
-> - Returning HTML to the webpage
-> - Different status codes
-> - How to redirect from a permanently moved url
+> - About Node Package Manager
+> - How to install node_modules locally and globally
+> - Installed nodemon globally
+> - How Package.json works and how we can install dependencies 
+> - understood why node_modules are not supposed to be pushed on github
+
 
