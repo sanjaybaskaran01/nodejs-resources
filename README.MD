@@ -17,6 +17,10 @@
 >> - Installed nodemon globally
 >> - How Package.json works and how we can install dependencies 
 >> - understood why node_modules are not supposed to be pushed on github
+> - Lesson 5
+>> - Using Express to setup routes
+>> - Routing html pages using express
+>> - Redirects & 404 pages in express
 
 
 
