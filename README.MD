@@ -21,6 +21,11 @@
 >> - Using Express to setup routes
 >> - Routing html pages using express
 >> - Redirects & 404 pages in express
+> - Lesson 6
+>> - Understanding how view engines work
+>> - Learning about EJS view engine
+>> - Learnt how to pass data into views
+>> - Understood partials
 
 
 
