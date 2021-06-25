@@ -26,6 +26,10 @@
 >> - Learning about EJS view engine
 >> - Learnt how to pass data into views
 >> - Understood partials
-
+> - Lesson 7
+>> - Understood middleware
+>> - Used next() of express
+>> - Used 3rd party middleware (morgan)
+>> - Used inbuilt static function of express
 
 
