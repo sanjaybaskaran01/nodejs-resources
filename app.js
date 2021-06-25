@@ -2,6 +2,7 @@ const express = require('express')
 
 //express app
 
+const morgan= require('morgan');
 const app = express();
 //creating a new engine
 
@@ -9,6 +10,11 @@ app.set('view engine','ejs');
 
 //listen for requests
 app.listen(3000);
+
+app.use(morgan('dev'));
+
+//middleware and static files
+app.use(express.static('public'))
 
 app.get('/',(req,res)=>{
     const blogs =[
@@ -18,6 +24,8 @@ app.get('/',(req,res)=>{
     ]
     res.render('index',{title:"Home",blogs});
 });
+
+
 
 app.get('/about',(req,res)=>{
     res.render('about',{title:"About"})

@@ -1,6 +1,6 @@
 # Things I learnt
-> - Understanding View engines
-> - Using EJS View engine
-> - Passing data into views
-> - Learning about partials
+> - Understood middleware
+> - Used next() of express
+> - Used 3rd party middleware (morgan)
+> - Used inbuilt static function of express
 
